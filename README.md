@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TomPrague
+- 👀 I’m interested in cooperation and meeting people learing front/end web development.
+- 🌱 I’m currently learning CSS and JavaScript
+- 💞️ I’m looking to collaborate on anything:)
+- 📫 my e-mail: tomas.lsc@gmail.com
